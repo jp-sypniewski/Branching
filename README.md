@@ -10,7 +10,9 @@ Cheat sheet for git commands in terminal
 * `git log` - view commit log
 * `git remote add origin URL` - add remote repository
 
+*  `git log --oneline` - compact view of commit log
+
 ### Basic Branching
 * `git branch` - show branches, current branch
-* `git branch branchName` - create new branch with branchName
-* `git checkout branchName` - check out branch branchName
+* `git branch branchName` - create new branch with `branchName`
+* `git checkout branchName` - check out branch `branchName`
