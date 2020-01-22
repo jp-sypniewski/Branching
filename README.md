@@ -10,5 +10,6 @@
 
 ### Basic Branching
 * `git branch` - show branches, current branch
-* `git branch branchName` - create new branch with branchName
-* `git checkout branchName` - check out branch branchName
+* `git branch branchName` - create new branch with `branchName`
+* `git checkout branchName` - check out branch `branchName`
+* `git checkout -b branchName` - check out and create `branchName`
