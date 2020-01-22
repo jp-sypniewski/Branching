@@ -7,7 +7,7 @@
 * `git status` - see status of local repo
 * `git log` - view commit log
 
-*  `git log --oneline`
+*  `git log --oneline` - compact view of commit log
 
 ### Basic Branching
 * `git branch` - show branches, current branch
