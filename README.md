@@ -1,5 +1,7 @@
 ## Branching
 
+Cheat sheet for git commands in terminal
+
 ### Basic Git Commands
 * `git init` - create local repo
 * `git add` - add modified files to index (staging)
